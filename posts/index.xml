@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Jul 2022 10:06:11 -0700</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>&#39;
+Here is my first post using vim</description>
+    </item>
+    
+    <item>
+      <title>Offboarding</title>
+      <link>http://example.org/posts/offboarding/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/offboarding/</guid>
+      <description>Resolve this ticket by executing the following steps:
+Immediately suspend user in SSO Append HR termination request e-mail to this ticket Look up manually-provisioned applications for this role or user Validate access revocation in each Append confirmation or revocation to this ticket </description>
+    </item>
+    
+    <item>
+      <title>onboarding</title>
+      <link>http://example.org/posts/onboarding/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/onboarding/</guid>
+      <description>Resolve this ticket by executing the following steps:
+Append HR add request e-mail to this ticket Proactively validate role assignment with manager (see HR request e-mail) Add user to default group for the specified role Provision any manually-provisioned applications by role Append manual provisioning confirmation to this ticket Proactively confirm with new user that they can access all provisioned systems </description>
+    </item>
+    
+    <item>
+      <title>patching</title>
+      <link>http://example.org/posts/patch/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/patch/</guid>
+      <description>OS Patch Procedure Resolve this ticket by executing the following steps:
+Pull the latest scripts from the Ops repository Execute ENV=staging patch-all.sh Inspect output Errors? Investigate and resolve Execute ENV=production patch-all.sh Attach log output to this ticket </description>
+    </item>
+    
+    <item>
+      <title>procedures</title>
+      <link>http://example.org/posts/readme/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/readme/</guid>
+      <description>Procedures Procedures prescribe specific steps that are taken in response to key events.</description>
+    </item>
+    
+    <item>
+      <title>Workstation</title>
+      <link>http://example.org/posts/workstation/</link>
+      <pubDate>Sat, 16 Jul 2022 10:06:11 -0700</pubDate>
+      
+      <guid>http://example.org/posts/workstation/</guid>
+      <description>Resolve this ticket by executing the following steps:
+Send the communications below For any email replies, attach content to this ticket Validate responses are received from each To: Desktop support Subject: Annual workstation inventory Please attach the current workstation inventory to the following ticket: [REPLACE WITH URL TO THIS TICKET] The workstation inventory shall include the following fields: * Serial number * Custodian * Full disk encryption status * Malware protection status To: Outsourced Call Center IT Subject: Annual workstation inventory As part of our ongoing compliance efforts and per our services agreement, we require a current inventory of workstations in use in the service of our account.</description>
+    </item>
+    
+  </channel>
+</rss>
